@@ -17,6 +17,10 @@
 - pandas
 
 
+## Link to the medium blog post
+[Blog Post](https://ankitsaini1729.medium.com/insights-from-machine-learning-and-data-science-survey-2020-1adb1b83f706)
+
+
 ## Results
 - Machine Learning Frameworks used regularly by data science practitioners
 
