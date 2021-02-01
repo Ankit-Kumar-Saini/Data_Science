@@ -17,11 +17,13 @@ Other libraries used in this project are:
 
 
 ## Project Introduction<a name="introduction"></a>
-- Every year from 2017, [Kaggle](https://www.kaggle.com/c/kaggle-survey-2020) conducts an industry-wide survey that presents a truly comprehensive view of the state of data science and machine learning. The survey was live for 3.5 weeks in October and had 20,036 responses from over 55 countries and diverse demographics answering a wide range of questions ranging from frequently used ML algorithms, frameworks, cloud platforms, and products to the preferred programming languages and many others.
+Every year from 2017, [Kaggle](https://www.kaggle.com/c/kaggle-survey-2020) conducts an industry-wide survey that presents a truly comprehensive view of the state of data science and machine learning. The survey was live for 3.5 weeks in October and had 20,036 responses from over 55 countries and diverse demographics answering a wide range of questions ranging from frequently used ML algorithms, frameworks, cloud platforms, and products to the preferred programming languages and many others.
 
 
 ## Business Understanding<a name="understanding"></a>
-- As more and more companies are entering the digital world, the role of data science is becoming very important for the growth and development of these companies. Therefore the demand of data science practitioners will continue to rise. But Data Science as a field is also continuously evolving with new tools entering into the field every now and then. Hence, it becomes extremely important to uderstand the current tools and practices of the field for the aspiring data scientists in order to enter into the field. In order to understand the current trends, tools, frameworks and practices existing in the field of Data Science, I have carried out the data analysis on the Kaggle 2020 Data Science and Machine Learning Survey (dataset) by answering 43 questions through data and visualization. Some of the questions are mentioned below.
+As more and more companies are entering the digital world, the role of data science is becoming very important for the growth and development of these companies. Therefore the demand of data science practitioners will continue to rise. But Data Science as a field is also continuously evolving with new tools entering into the field every now and then. Hence, it becomes extremely important to uderstand the current tools and practices of the field for the aspiring data scientists in order to enter into the field. In order to understand the current trends, tools, frameworks and practices existing in the field of Data Science, I have carried out the data analysis on the Kaggle 2020 Data Science and Machine Learning Survey (dataset) by answering 43 questions through data and visualization. 
+
+Some of the questions are:
 1. What is the highest level of formal education attained by the practitioners in the survey?
 2. Which programming languages do the data science practitioners use on a regular basis?
 3. Which integrated development environments (IDE's) do the data science practitioners use on a regular basis?
